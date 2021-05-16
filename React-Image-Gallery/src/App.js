@@ -25,6 +25,6 @@ export default App;
 
 const H1 = styled.h1`
   color: tomato;
-  margin-bottom: 28px;
+  margin-bottom: 32px;
   font-size: 44px;
 `;
